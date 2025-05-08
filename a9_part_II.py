@@ -1,6 +1,6 @@
 # some python libraries we'll be using
 import re, string, calendar
-from wikipedia import page
+from wikipedia import WikipediaPage
 from bs4 import BeautifulSoup
 
 from typing import List, Match
